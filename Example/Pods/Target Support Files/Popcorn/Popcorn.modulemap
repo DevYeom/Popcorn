@@ -1,0 +1,6 @@
+framework module Popcorn {
+  umbrella header "Popcorn-umbrella.h"
+
+  export *
+  module * { export * }
+}

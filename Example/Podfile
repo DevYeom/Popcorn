@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'Popcorn_Example' do
+  pod 'Popcorn', :path => '../'
+
+  target 'Popcorn_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

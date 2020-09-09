@@ -1,0 +1,6 @@
+framework module Pods_Popcorn_Tests {
+  umbrella header "Pods-Popcorn_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

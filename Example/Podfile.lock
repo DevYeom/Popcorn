@@ -1,0 +1,16 @@
+PODS:
+  - Popcorn (0.1.0)
+
+DEPENDENCIES:
+  - Popcorn (from `../`)
+
+EXTERNAL SOURCES:
+  Popcorn:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Popcorn: 2206430ec1a720f9ec02ab05918f773a51faf9fa
+
+PODFILE CHECKSUM: d9a53f765dcf71255ae38f444a9f0cccd7c7af59
+
+COCOAPODS: 1.9.3
